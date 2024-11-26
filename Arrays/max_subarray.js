@@ -1,6 +1,8 @@
 
 // Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
+
+// We are using kadence algorithm which is the most ideal way to solve this problem 
 const arr=[1,-3,4,6,-2,5]
 
 const findMaxSum=(arr)=>{
