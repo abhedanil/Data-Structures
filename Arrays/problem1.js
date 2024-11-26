@@ -25,3 +25,7 @@ const findMinAndMax=(arr)=>{
 const {min,max}=findMinAndMax(arr)
 console.log(`Minimum element is ${min} `)
 console.log(`Maximum element is ${max} `)
+
+
+// time complexity= O(n)
+//space complexity =O(1)
